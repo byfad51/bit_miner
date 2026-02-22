@@ -1,6 +1,6 @@
 # BitCounter
 
-Images related to the application can be found in this repository.
+Images related to the application can be found in this repository. The app is currently undergoing approval on the Play Store.
 
 
 BitCounter is a lightweight clicker/idle game built with Flutter. Players collect a digital resource (bits / crypto-like currency), invest into upgrades and automation, and expand production through systems such as offices and drones. The app combines short active sessions (clicking) with longer idle progression (automations, offline earnings, and persistent upgrades).
